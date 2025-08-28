@@ -5,7 +5,7 @@
 ## <code>Front-end Developre & Maker </code>
  <div>
 
-## Sobre mim
+## About me
 <ul>
   <li>15 years old ⏱️</li>
   <li>Robotics Maker 🤖</li>
