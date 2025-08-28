@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 style="text-align:center;">
+ KarllosMiguel
+</h1>
 
-<!--
-**eomiguel314/eomiguel314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <code>Front-end Developre & Maker </code>
+ <div>
 
-Here are some ideas to get you started:
+## Sobre mim
+<ul>
+  <li>15 years old ⏱️</li>
+  <li>Robotics Maker 🤖</li>
+  <li>Dev Front-end & Python 👨🏻‍💻</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Skills
+<div style="display:flex;">
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  /> </code>
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  /> </code>
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  /> </code>
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"   /> </code>
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/> </code>
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </code>
+
+</div>
+
+## Tools ⚒️
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+## Social 
+
+<div style="display:flex;">
+ 
+<a href="https://github.com/eomiguel314">
+ 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</a>
+
+<a href="https://www.linkedin.com/in/karllos-miguel-732361238/">
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</a>
+
+</div>
+
+## Status
+<div style="display:flex; align-items: center;">
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomiguel314&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomiguel314&layout=compact&theme=transparent)
+
+</div>
