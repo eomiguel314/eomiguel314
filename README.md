@@ -7,9 +7,7 @@
 
 ## About me
 <ul>
-  <li>15 years old ⏱️</li>
-  <li>Robotics Maker 🤖</li>
-  <li>Dev Front-end & Python 👨🏻‍💻</li>
+  <li> Maker 🤖</li>
 </ul>
 
 ## Tech Skills
