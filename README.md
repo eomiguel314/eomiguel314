@@ -2,7 +2,7 @@
  KarllosMiguel
 </h1>
 
-## <code>Front-end Developre & Maker </code>
+## <code>Maker </code>
  <div>
 
 ## About me
