@@ -11,5 +11,6 @@
 <code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"   /> </code>
 <code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/> </code>
 <code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </code>
+<code> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" /> </code>
 
 </div>
